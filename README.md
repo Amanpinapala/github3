@@ -1,2 +1,2 @@
 # github3
-hi this is initia command to github
+this is my github initial account 
